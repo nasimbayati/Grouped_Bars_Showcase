@@ -22,9 +22,9 @@ python -c "import grouped_bars_showcase as g; g.main(save_png=True)"
 
 This writes **grouped\_bars\_showcase.png** next to the script. Add it to your README:
 
-```markdown
+
 ![Preview](grouped_bars_showcase.png)
-```
+
 
 ## Requirements
 
